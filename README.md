@@ -1,4 +1,4 @@
-<h1 align="center">Hey!  What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
@@ -43,8 +43,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Bat0al-k/Bat0al-k/output/snake.svg" alt="Snake animation" />
 
